@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.adobe.aem.headless:aem-headless-client-java:0.8.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/aem/headless/aem-headless-client-java/0.8.0/aem-headless-client-java-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/aem/headless/aem-headless-client-java/0.8.0/aem-headless-client-java-0.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/aem/headless/aem-headless-client-java/0.8.0/aem-headless-client-java-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
