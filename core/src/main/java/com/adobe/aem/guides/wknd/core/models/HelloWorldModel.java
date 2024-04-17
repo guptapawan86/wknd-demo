@@ -52,7 +52,7 @@ public class HelloWorldModel {
                 .map(pm -> pm.getContainingPage(currentResource))
                 .map(Page::getPath).orElse("");
 
-        message = "Hello test aa World!\n"
+        message = "Hello testing test aa World!\n"
             + "Resource type is dd: " + resourceType + "\n"
             + "Current page is:  " + currentPagePath + "\n";
     }
