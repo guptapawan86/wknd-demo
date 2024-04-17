@@ -34,7 +34,6 @@ import java.util.Optional;
 
 @Model(adaptables = Resource.class)
 public class HelloWorldModel {
-
     @ValueMapValue(name=PROPERTY_RESOURCE_TYPE, injectionStrategy=InjectionStrategy.OPTIONAL)
     @Default(values="No resourceType")
     protected String resourceType;
@@ -53,8 +52,8 @@ public class HelloWorldModel {
                 .map(pm -> pm.getContainingPage(currentResource))
                 .map(Page::getPath).orElse("");
 
-        message = "Hello World!\n"
-            + "Resource type is: " + resourceType + "\n"
+        message = "Hello testing test aa World!\n"
+            + "Resource type is dd: " + resourceType + "\n"
             + "Current page is:  " + currentPagePath + "\n";
     }
 
